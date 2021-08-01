@@ -162,12 +162,6 @@ section .title::after{
     filter: brightness(90%);
 }
 
-@media only screen and(max-width: 600px){
-    body{
-        background-color: white;
-    }
-}
-
 /* home section styling */
 .home{
     display: flex;
